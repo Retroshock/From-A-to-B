@@ -1,0 +1,229 @@
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe.config
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\bin\Debug\joculet mouse.pdb
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet mouse.exe
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet mouse.pdb
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+D:\12I1\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe.config
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet mouse.exe
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet mouse.pdb
+D:\12I1\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe
+D:\12I1\joculet mouse\joculet mouse\bin\Debug\joculet mouse.pdb
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+D:\12I1\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe.config
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet mouse.exe
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet mouse.pdb
+C:\Users\user\Desktop\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe
+C:\Users\user\Desktop\joculet mouse\joculet mouse\bin\Debug\joculet mouse.pdb
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+C:\Users\user\Desktop\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+C:\Users\Adi\Documents\Visual Studio 2012\Projects\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+F:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe.config
+F:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.exe
+F:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.pdb
+F:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe
+F:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.pdb
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+I:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe.config
+I:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.exe
+I:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.pdb
+I:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+I:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe
+I:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.pdb
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+F:\joculet mouse\joculet mouse\obj\Debug\ResolveAssemblyReference.cache
+F:\joculet mouse\joculet mouse\obj\Debug\GenerateResource.read.1.tlog
+F:\joculet mouse\joculet mouse\obj\Debug\GenerateResource.write.1.tlog
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+I:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+J:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe.config
+J:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.exe
+J:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.pdb
+J:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe
+J:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.pdb
+J:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini4.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+D:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe.config
+D:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.exe
+D:\joculet mouse\joculet mouse\obj\Debug\joculet mouse.pdb
+D:\joculet mouse\joculet mouse\obj\Debug\ResolveAssemblyReference.cache
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form8.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini4.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+D:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+D:\joculet mouse\joculet mouse\obj\Debug\GenerateResource.read.1.tlog
+D:\joculet mouse\joculet mouse\obj\Debug\GenerateResource.write.1.tlog
+D:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.exe
+D:\joculet mouse\joculet mouse\bin\Debug\joculet mouse.pdb
+I:\joculet mouse 1\joculet mouse\bin\Debug\joculet mouse.exe.config
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet mouse.exe
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet mouse.pdb
+I:\joculet mouse 1\joculet mouse\bin\Debug\joculet mouse.exe
+I:\joculet mouse 1\joculet mouse\bin\Debug\joculet mouse.pdb
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Form8.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Mini4.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+I:\joculet mouse 1\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form8.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Mini4.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Dummy.resources
+F:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form9.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Dummy.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form8.resources
+J:\joculet mouse\joculet mouse\obj\Debug\joculet_mouse.Form9.resources
+J:\joculet mouse - Copy\joculet mouse\bin\Debug\joculet mouse.exe.config
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet mouse.exe
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet mouse.pdb
+J:\joculet mouse - Copy\joculet mouse\bin\Debug\joculet mouse.exe
+J:\joculet mouse - Copy\joculet mouse\bin\Debug\joculet mouse.pdb
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Dummy.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form8.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Form9.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Mini4.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+J:\joculet mouse - Copy\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+J:\From A to B\joculet mouse\bin\Debug\joculet mouse.exe.config
+J:\From A to B\joculet mouse\obj\Debug\joculet mouse.exe
+J:\From A to B\joculet mouse\obj\Debug\joculet mouse.pdb
+J:\From A to B\joculet mouse\bin\Debug\joculet mouse.exe.manifest
+J:\From A to B\joculet mouse\bin\Debug\joculet mouse.application
+J:\From A to B\joculet mouse\bin\Debug\joculet mouse.exe
+J:\From A to B\joculet mouse\bin\Debug\joculet mouse.pdb
+J:\From A to B\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Dummy.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form8.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Form9.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Mini4.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+J:\From A to B\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
+J:\From A to B\joculet mouse\obj\Debug\joculet mouse.exe.manifest
+J:\From A to B\joculet mouse\obj\Debug\joculet mouse.application
+E:\From A to B - code\joculet mouse\bin\Debug\joculet mouse.exe.config
+E:\From A to B - code\joculet mouse\obj\Debug\joculet mouse.exe
+E:\From A to B - code\joculet mouse\obj\Debug\joculet mouse.pdb
+E:\From A to B - code\joculet mouse\obj\Debug\joculet mouse.csprojResolveAssemblyReference.cache
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Dummy.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form1.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form2.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form3.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form4.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form5.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form6.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form7.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form8.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Form9.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.mini1.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Mini2.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Mini3.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Mini4.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Properties.Resources.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet_mouse.Start.resources
+E:\From A to B - code\joculet mouse\obj\Debug\joculet mouse.csproj.GenerateResource.Cache
